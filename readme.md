@@ -4,6 +4,8 @@
 
 Port of [https://github.com/sindresorhus/hyperterm-snazzy](hyperterm-snazzy) for iTerm 2.
 
+![](screenshot.png)
+
 ## Install
 Open `snazzy.itermcolors` to import, and chose the theme from `Profile > Colors > Color Presets...` to change your current profile.
 
